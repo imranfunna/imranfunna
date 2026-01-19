@@ -24,10 +24,5 @@ Hier zijn de talen en tools waar ik dagelijks mee bouw:
 
 ---
 
-## 📊 GitHub Statistieken
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranfunna&show_icons=true&theme=radical)
-![Meest gebruikte talen](https://github-readme-stats.vercel.app/api/top-langs/?username=imranfunna&layout=compact&theme=radical)
----
-
 ## 📫 Laten we connecten!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imran-funna-62312a217/)
