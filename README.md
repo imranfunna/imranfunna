@@ -56,6 +56,7 @@ This project involved the development of an advanced end-to-end **ETL pipeline**
 * **Predictive Modeling:** Validated the pipeline by training a **Random Forest** classifier to predict delay probabilities based on the integrated dataset.
 
 **Tech Stack:** `Python`, `OpenCV`, `Librosa (Audio)`, `NLP`, `Scikit-Learn`, `SQL (Trino/SQLite)`, `Webscraping (BeautifulSoup)`
+
 ---
 
 ## 📫 Find me here!
