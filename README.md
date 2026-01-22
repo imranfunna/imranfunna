@@ -42,7 +42,7 @@ This project focused on automating the manual consulting process of a mobility f
 ### ✈️ Multimodal Data Pipeline: Schiphol Flight Delay Predictor
 *Technical Research & Data Engineering Project*
 
-This project involved the development of an advanced end-to-end **ETL pipeline** designed to predict flight delays at Amsterdam Airport Schiphol. Unlike traditional models, this pipeline integrates disparate, multimodal data sources to capture a holistic view of airport operations.
+This project involved the development of an **ETL pipeline** designed to predict flight delays at Amsterdam Airport Schiphol. This pipeline integrates disparate, multimodal data sources to capture a holistic view of airport operations.
 
 
 
