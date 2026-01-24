@@ -22,7 +22,7 @@ I am a passionate Data Science student based in **Zoetermeer, Netherlands**. I l
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### 🚄 AI-Driven Mobility Optimization & Automation
 *Collaborative project for a Mobility Consultancy Firm*
