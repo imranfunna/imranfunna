@@ -57,6 +57,21 @@ This project involved the development of an **ETL pipeline** designed to predict
 
 **Tech Stack:** `Python`, `OpenCV`, `Librosa (Audio)`, `NLP`, `Scikit-Learn`, `SQL (Trino/SQLite)`, `Webscraping (BeautifulSoup)`
 
+
+### 🧠 Kaggle Competition: Stroke Prediction Challenge
+*Academic Competitive Sprint*
+
+**🏆 Result: 2nd Place Overall (out of 48 teams) & 1st Place at Zoetermeer Campus**
+
+In this intensive competition, I collaborated in a team to develop a predictive model identifying stroke risk based on clinical and lifestyle data. Our solution focused on maximizing the F1-score and AUC-ROC, specifically addressing the challenge of imbalanced datasets typical in medical diagnostics.
+
+**Key Technical Contributions:**
+* **Precision Data Engineering:** Managed rigorous preprocessing, including handling missing clinical values and encoding categorical variables for health-risk factors.
+* **Advanced Model Tuning:** Systematically evaluated multiple classifiers, ultimately utilizing Hyperparameter Tuning (GridSearchCV/RandomizedSearchCV) and Cross-Validation to ensure the model generalized well beyond the training data.
+* **Imbalance Handling:** Implemented strategies to handle class imbalance (such as SMOTE or class weighting) to ensure high sensitivity in detecting stroke cases, which were significantly underrepresented in the dataset.
+* **Collaborative Project Management:** Utilized Git for version control and coordinated the ML pipeline development to meet the competition's strict submission deadlines.
+
+**Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`, `Matplotlib`, `Hyperparameter Tuning`, `Cross-Validation`
 ---
 
 ## 📫 Find me here!
