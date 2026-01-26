@@ -72,6 +72,7 @@ In this intensive competition, I collaborated in a team to develop a predictive 
 * **Collaborative Project Management:** Utilized Git for version control and coordinated the ML pipeline development to meet the competition's strict submission deadlines.
 
 **Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`, `Matplotlib`, `Hyperparameter Tuning`, `Cross-Validation`
+
 ---
 
 ## 📫 Find me here!
